@@ -1,2 +1,2 @@
-# Imbalanced-Datasets-in-ML
-Imbalanced Datasets in ML, published by Packt
+# Machine Learning for Imbalanced Data
+Machine Learning for Imbalanced Data, published by Packt
