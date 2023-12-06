@@ -1,6 +1,6 @@
 # Machine Learning for Imbalanced Data
 
-<a href="https://www.packtpub.com/product/machine-learning-for-imbalanced-data/9781801070836"><img src="https://m.media-amazon.com/images/I/71OBftlbuDL._SL1500_.jpg" alt="Machine Learning for Imbalanced Data" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/machine-learning-for-imbalanced-data/9781801070836"><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41ldy7Kud6L._SX342_SY445_.jpg" alt="Machine Learning for Imbalanced Data" height="256px" align="right"></a>
 
 This is the code repository for [Machine Learning for Imbalanced Data](https://www.packtpub.com/product/machine-learning-for-imbalanced-data/9781801070836), published by Packt.
 
