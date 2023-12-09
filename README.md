@@ -74,7 +74,7 @@ With the following software and hardware list you can run all code files present
 9. Hybrid Deep Learning Methods [[open dir](chapter09)] 
 10. Model Calibration [[open dir](chapter10)]
 
-[Detailed Table of content]<Table of Content.pdf>
+[Detailed Table of content](Table&#32;of&#32;Content.pdf)
 
 
 ## List of notebooks
