@@ -59,11 +59,6 @@ With the following software and hardware list you can run all code files present
 
 **Dr. Mounir Abdelaziz** is a deep learning researcher specializing in computer vision applications. He holds a Ph.D. in computer science and technology from Central South University, China. During his Ph.D. journey, he developed innovative algorithms to address practical computer vision challenges. He has also authored numerous research articles in the field of few-shot learning for image classification.
 
-
-## Links
-
-- [Amazon link](https://www.amazon.com/Machine-Learning-Imbalanced-Data-imbalanced/dp/1801070830/)
-
 ## Table of Contents and Code Notebooks
 
 1. Introduction to Data Imbalance in Machine Learning [[open dir](chapter01)] 
