@@ -2,7 +2,7 @@
 
 <a href="https://www.amazon.com/dp/1801070830"><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41ldy7Kud6L._SX342_SY445_.jpg" alt="Machine Learning for Imbalanced Data" height="256px" align="right"></a>
 
-This is the code repository for [Machine Learning for Imbalanced Data](https://www.packtpub.com/product/machine-learning-for-imbalanced-data/9781801070836), published by Packt.
+This is the code repository for [Machine Learning for Imbalanced Data](https://www.amazon.com/dp/1801070830), published by Packt.
 
 **Tackle imbalanced datasets using machine learning and deep learning techniques**
 
@@ -18,7 +18,12 @@ This book covers the following exciting features:
 * Combine and choose from various options for data balancing while avoiding common pitfalls
 * Understand the concepts of model calibration and threshold adjustment in the context of dealing with imbalanced datasets
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/Machine-Learning-Imbalanced-Data-imbalanced/dp/1801070830) today!
+If you feel this book is for you, get your copy today!
+<ul>
+  <li> [Amazon.com link](https://www.amazon.com/Machine-Learning-Imbalanced-Data-imbalanced/dp/1801070830) </li>
+  <li> [Amazon.in link](https://www.amazon.com/Machine-Learning-Imbalanced-Data-imbalanced/dp/1801070830) </li>
+  <li> [Packt link](https://www.packtpub.com/product/machine-learning-for-imbalanced-data/9781801070836) </li>
+</ul>
 
 <a href="https://www.packtpub.com/product/machine-learning-for-imbalanced-data/9781801070836"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
