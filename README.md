@@ -23,7 +23,9 @@ If you feel this book is for you, get your copy today!
 * [Amazon.in link](https://www.amazon.com/Machine-Learning-Imbalanced-Data-imbalanced/dp/1801070830) 
 * [Packt link](https://www.packtpub.com/product/machine-learning-for-imbalanced-data/9781801070836)
 
-<a href="https://www.packtpub.com/product/machine-learning-for-imbalanced-data/9781801070836"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
+#### Download a free PDF
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost. </i> <br>
+ Please go to <a href="https://packt.link/free-ebook/9781801070836">this link</a> to claim your free PDF.
 
 ## Instructions and Navigations
 All of the code is organized into folders.
