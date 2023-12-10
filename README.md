@@ -20,7 +20,7 @@ This book covers the following exciting features:
 
 If you feel this book is for you, get your copy today!
 * [Amazon.com link](https://www.amazon.com/Machine-Learning-Imbalanced-Data-imbalanced/dp/1801070830) 
-* [Amazon.in link](https://www.amazon.com/Machine-Learning-Imbalanced-Data-imbalanced/dp/1801070830) 
+* [Amazon.in link](https://www.amazon.in/Machine-Learning-Imbalanced-Data-imbalanced/dp/1801070830) 
 * [Packt link](https://www.packtpub.com/product/machine-learning-for-imbalanced-data/9781801070836)
 
 #### Download a free PDF
