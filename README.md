@@ -51,6 +51,9 @@ With the following software and hardware list you can run all code files present
 |  	1-10	   |   	Google Colab                                  			  | Any OS | 		
 
 
+### Questions or Feedback
+If you have any questions or feedback, please feel free to use the [Discussions tab](https://github.com/PacktPublishing/Machine-Learning-for-Imbalanced-Data/discussions) of this repository. You can start a new discussion under an appropriate category. 
+
 ### Related products <Other books you may enjoy>
 * Machine Learning with PyTorch and Scikit-Learn  [[Packt]](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312) [[Amazon]](https://www.amazon.in/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319/ref=sr_1_3?keywords=Machine+Learning+with+PyTorch+and+Scikit-Learn&sr=8-3)
   
