@@ -60,7 +60,7 @@ If you have any questions or feedback, please feel free to use the [Discussions 
 * Graph Machine Learning  [[Packt]](https://www.packtpub.com/product/graph-machine-learning/9781800204492) [[Amazon]](https://www.amazon.in/Graph-Machine-Learning-techniques-algorithms/dp/1800204493/ref=sr_1_3?keywords=Graph+Machine+Learning&sr=8-3)
   
 ## Get to Know the Authors
-**Kumar Abhishek** is a seasoned Senior Machine Learning Engineer at Expedia Group, US, specializing in risk analysis and fraud detection for Expedia brands. With over a decade of experience at companies such as Microsoft, Amazon, and a Bay Area startup, Kumar holds an MS in Computer Science from the University of Florida.
+**Kumar Abhishek** is a seasoned Senior Machine Learning Engineer, specializing in risk analysis and fraud detection. With over a decade of experience at companies such as Expedia, Microsoft, Amazon, and a Bay Area startup, Kumar holds an MS in Computer Science from the University of Florida.
 
 **Dr. Mounir Abdelaziz** is a deep learning researcher specializing in computer vision applications. He holds a Ph.D. in computer science and technology from Central South University, China. During his Ph.D. journey, he developed innovative algorithms to address practical computer vision challenges. He has also authored numerous research articles in the field of few-shot learning for image classification.
 
