@@ -53,14 +53,14 @@
 
 ### Hybrid Deep Learning Methods (Chapter-9)
 | Method                    | Company                                            | Title                                            | Year |
-|---------------------------|-----------------------------------------------------------------------------------------------|------|
+|---------------------------|----------------------------------------------------|------|---|
 | Relational Graph Learning | [Uber](https://www.uber.com/blog/fraud-detection)          |Fraud Detection: Using Relational Graph Learning to Detect Collusion | 2021 |
 | Graph for Fraud Detection | [Grab](https://engineering.grab.com/graph-for-fraud-detection)   | Graph for fraud detection                             | 2022 |
 
 
 ### Model Calibration (Chapter-10)
- | Technique           | Company | Title                                                                                              | Year | 
-|---------------------|-----------------------------------------------------------------------------------------------------|------|
+ | Technique           | Company | Title                                | Year | 
+|---------------------|-----------|------|---|
 | Model Calibration   | [Netflix](https://doi.org/10.1145/3240323.3240372) | Calibrated recommendations                                                  | 2018 |
 | Model Calibration   | [Meta](https://doi.org/10.1145/2648584.2648589)  | Practical Lessons from Predicting Clicks on Ads at Facebook | 2014 |
 
