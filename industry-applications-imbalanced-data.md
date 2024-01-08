@@ -44,8 +44,8 @@
 ### Algorithm-Level Deep Learning Techniques (Chapter-8)
 | Technique                | Company                                                                                                           |
 |--------------------------|-------------------------------------------------------------------------------------------------------------------|
-| DALL·E 2 pre-training mitigations | [OpenAI](https://openai.com/research/dall-e-2-pre-training-mitigations)                                           |
-| BERT for NLP             | [Wayfair](https://www.aboutwayfair.com/tech-innovation/bert-does-business-implementing-the-bert-model-for-natural-language-processing-at-wayfair) |
+| Class weigting (DALL·E 2 pre-training mitigations) | [OpenAI](https://openai.com/research/dall-e-2-pre-training-mitigations)                                           |
+| Class weigting (BERT for NLP)             | [Wayfair](https://www.aboutwayfair.com/tech-innovation/bert-does-business-implementing-the-bert-model-for-natural-language-processing-at-wayfair) |
 | Focal loss               | [Meta](https://ai.meta.com/blog/community-standards-report)                                                       |
 | Class-balanced loss      | [Apple](https://machinelearning.apple.com/research/mobile-applications-accessible)                                |
 
