@@ -55,4 +55,4 @@
 | Model Calibration   | Meta      | [Practical Lessons from Predicting Clicks on Ads at Facebook](https://doi.org/10.1145/2648584.2648589) | 2014 |
 
 
-For more related resources, please refer to my other repository titled [Awesome Imbalanced Learning in Production](https://github.com/kumar-abhishek/awesome-imbalanced-learning-in-production/).
+## For more related resources, please refer to my other repository [Awesome Imbalanced Learning in Production](https://github.com/kumar-abhishek/awesome-imbalanced-learning-in-production/) 🔥🔥🔥🔥🔥🚀🚀🚀🚀🚀
