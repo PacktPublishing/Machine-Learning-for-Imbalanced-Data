@@ -127,9 +127,6 @@ If you have any questions or feedback, please feel free to use the [Discussions 
 <br>
 [![Star History Chart](https://api.star-history.com/svg?repos=PacktPublishing/Machine-Learning-for-Imbalanced-Data&type=Date)](https://star-history.com/#PacktPublishing/Machine-Learning-for-Imbalanced-Data&Date)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=valeman/awesome-conformal-prediction&type=Date)](https://star-history.com/#valeman/awesome-conformal-prediction&Date)
-
-
 Kumar Abhishek, Dr. Mounir Abdelaziz, *Machine Learning for Imbalanced Data*. Packt Publishing, 2023.
 
         @book{mlimbdata2023,
