@@ -1,6 +1,3 @@
-
-<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/e72907cf-bf2f-4f83-bb58-6cc08a901ff9.jpeg)](https://www.packtpub.com/)</p></b>Get this book on sale at [Packt](https://www.packtpub.com/).
-
 # Machine Learning for Imbalanced Data
 
 <a href="https://www.amazon.com/dp/1801070830"><img src="https://m.media-amazon.com/images/I/51QuIZXp-sL._SY522_.jpg" alt="Machine Learning for Imbalanced Data" height="256px" align="right"></a>
